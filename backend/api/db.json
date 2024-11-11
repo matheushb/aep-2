@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": "1678352610031",
+      "username": "teste",
+      "password": "teste"
+    },
+    {
+      "id": "1678352610000",
+      "username": "joao_silva",
+      "password": "senhaSegura123"
+    },
+    {
+      "id": "1678352611234",
+      "username": "maria_oliveira",
+      "password": "outraSenhaSegura456"
+    },
+    {
+      "id": "1678352615678",
+      "username": "pedro_souza",
+      "password": "senhaForte789"
+    }
+  ],
+  "passwords": [
+    {
+      "id": "1678352610001",
+      "userId": "1678352610000",
+      "password": "senhaSegura123",
+      "securityLevel": "alta"
+    },
+    {
+      "id": "1678352610002",
+      "userId": "1678352610000",
+      "password": "outraSenhaSegura456",
+      "securityLevel": "baixa"
+    },
+    {
+      "id": "1678352610003",
+      "userId": "1678352615678",
+      "password": "senhaForte789",
+      "securityLevel": "baixa"
+    },
+    {
+      "id": "1731355599432",
+      "userId": "1678352610000",
+      "password": "bababoey",
+      "securityLevel": "Baixa"
+    },
+    {
+      "id": "1731355615556",
+      "userId": "1678352610000",
+      "password": "B@bab0ey<32",
+      "securityLevel": "Alta"
+    },
+    {
+      "id": "1731355626774",
+      "userId": "1678352610000",
+      "password": "Senha!",
+      "securityLevel": "Media"
+    },
+    {
+      "id": "1731356472462",
+      "userId": "1678352611234",
+      "password": "Lc2|nXFrqoO<",
+      "securityLevel": "Alta"
+    },
+    {
+      "id": "1731356794954",
+      "userId": "1678352611234",
+      "password": "L#iQe#V1wkf0O?Wn",
+      "securityLevel": "Alta"
+    },
+    {
+      "id": "1731356801838",
+      "userId": "1678352611234",
+      "password": "bEIpb$<N)6AS).C<",
+      "securityLevel": "Alta"
+    },
+    {
+      "id": "1731356926129",
+      "userId": "1678352611234",
+      "password": "(0<&86yjLPN@a*X!",
+      "securityLevel": "Alta"
+    },
+    {
+      "id": "1731356941758",
+      "userId": "1678352611234",
+      "password": "merda",
+      "securityLevel": "Baixa"
+    },
+    {
+      "id": "1731357072012",
+      "userId": "1678352611234",
+      "password": "axR?@%*Uasdas",
+      "securityLevel": "Media"
+    },
+    {
+      "id": "1731359462584",
+      "userId": "1678352610031",
+      "password": "N?RrI:28d^RO",
+      "securityLevel": "Alta"
+    }
+  ]
+}
